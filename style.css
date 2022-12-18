@@ -28,7 +28,7 @@ body {
 }
 
 .left-side-title {
-    background-color: aliceblue;
+    background-color: #f0f8ff;
     padding-left: 10px;
 }
 
@@ -67,7 +67,7 @@ body {
 .nav-list-right-side {
     display: flex;
     justify-content: center;
-    align-items: center;   
+    align-items: center;
     list-style: none;
     background-color: #f5f5dc;
     padding-top: 0px;
@@ -76,7 +76,14 @@ body {
 
 .nav-link {
     padding: 0 20px;
-  line-height: 5px;
+    line-height: 5px;
+    color: #080808;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.link {
+    color: #f5f5dc;
 }
 
 .right-side section {
