@@ -8,6 +8,10 @@
     flex-wrap: wrap;
 }
 
+body {
+    font-family: 'Hammersmith One';
+}
+
 .left-side {
     width: 30%;
     background-color: rgb(76, 82, 80);
@@ -29,8 +33,7 @@
 
 .nav-list,
 .skills-list,
-.languages-list
- {
+.languages-list {
     list-style: none;
     color: #fff;
 }
@@ -60,12 +63,12 @@
 
     padding-left: 20px;
     padding-right: 20px;
-    
+
 }
 
 .right-side section h2 {
     background-color: antiquewhite;
-    padding: 5px ;
+    padding: 5px;
 
 }
 
@@ -85,6 +88,7 @@
 
     margin-right: 30px;
 }
+
 .git img {
     height: 101px;
 }
