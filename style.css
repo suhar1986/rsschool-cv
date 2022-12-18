@@ -34,7 +34,8 @@ body {
 
 .nav-list,
 .skills-list,
-.languages-list {
+.languages-list,
+.project-list {
     list-style: none;
     color: #ffffff;
 }
