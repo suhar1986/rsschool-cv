@@ -92,7 +92,8 @@ body {
     margin-right: 30px;
 }
 .git img {
-    height: 101px;
+    height: 50px;
+    margin: auto;
 }
 
 .year {
